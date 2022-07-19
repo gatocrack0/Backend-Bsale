@@ -3,7 +3,7 @@
 
 API REST creada con Nodejs y Express, conectada a base de datos(MySQL) de prueba de Bsale para obtener productos y categorias existentes. 
 
-deploy: ----
+deploy: https://bsaleshop.herokuapp.com
 
 # Instalación
 
@@ -21,15 +21,13 @@ MYSQL_DB=
 ```
 Levantar localmente el proyecto
 ```
-npm run dev
+npm start
 ```
 Si se configuró todo correctamente, debería salir algo similar en la terminal
 ```
-[nodemon] 2.0.19
-[nodemon] to restart at any time, enter `rs`
-[nodemon] watching path(s): *.*
-[nodemon] watching extensions: js,mjs,json
-[nodemon] starting `node index.js`
+> bsale-test-backend@1.0.0 start
+> node index.js
+
 Server running on port 8080
 Connected to database
 ```
@@ -172,7 +170,7 @@ Respuesta
 }
 ```
 
-Documentación de Postman: ////////////
+Documentación de Postman: https://documenter.getpostman.com/view/9798334/UzQyqP9r
 
 
 
