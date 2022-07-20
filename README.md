@@ -1,9 +1,12 @@
+# Desafio Bsale
+Construir una tienda online que despliegue productos agrupados por la categoría a la que pertenecen, generando por separado backend (API REST) y frontend
+(aplicación que la consuma) y utilizando la base de datos que se disponibiliza para su desarrollo.
 
 # BackEnd Bsale Shop 
 
 API REST creada con Nodejs y Express, conectada a base de datos(MySQL) de prueba de Bsale para obtener productos y categorias existentes. 
 
-deploy: https://bsaleshop.herokuapp.com
+Deploy: https://bsaleshop.herokuapp.com
 
 # Instalación
 
